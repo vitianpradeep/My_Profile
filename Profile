@@ -1,0 +1,7 @@
+Greetings! I am an aspiring data scientist with a passion for utilizing my skills in Python, R language, machine learning, data analytics, data visualizations, statistics, PowerPoint, and Excel to create insights and solutions to complex business problems.
+
+I have diligently practiced data science tools and concepts, and I am excited to apply my knowledge and expertise to new challenges. Currently, I am focusing on two main areas of machine learning: supervised learning algorithms, which include regression, linear regression, logistic regression, decision trees, random forests, support vector machines (SVM), naive Bayes, k-nearest neighbors (KNN), neural networks, and gradient boosting; and unsupervised learning algorithms, such as k-means clustering, hierarchical clustering, principal component analysis (PCA), singular value decomposition (SVD), non-negative matrix factorization (NMF), and t-distributed stochastic neighbor embedding (t-SNE).
+
+I am committed to continually expanding my skillset and staying up-to-date with the latest industry trends and advancements. My ultimate goal is to use my expertise to make a meaningful impact and provide value to organizations in need of data-driven solutions.
+
+Thank you for taking the time to visit my profile. I look forward to connecting with others who share my passion for data science and exploring new opportunities to apply my skills.
